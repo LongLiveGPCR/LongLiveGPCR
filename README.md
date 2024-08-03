@@ -2,6 +2,8 @@
 # 嗨，我是GPCR / Maoist
 # I support communism and oppose capitalism / revisionism
 # 我支持共产主义，反对资本主义 / 修正主义
+# Clearly oppose reform and open up
+# 旗帜鲜明地反对改革开放
 # Revolution is innocent, rebellion is justified!
 # 革命无罪，造反有理！
 
