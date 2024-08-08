@@ -11,7 +11,10 @@
 
 我的XMPP：communism1966@conversations.im
 
-XMPP是一种通讯协议。如果你不了解XMPP，可以访问gajim.org下载一个客户端，非常方便。
+XMPP是一种通讯协议，使用非常简单，这是一个XMPP入门手册：
+https://codeberg.org/xmppjx/xmpp
+这是XMPP新手室的地址，如果你不熟悉XMPP可以先加入这个，里面有其他聊天室的链接：
+xmpp新手室@salas.suchat.org
 <!---
 LongLiveGPCR/LongLiveGPCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
